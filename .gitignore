@@ -1,0 +1,7 @@
+.idea/
+.idea/*
+.vscode
+*.sublime*
+npm-debug.*
+.htaccess
+/node_modules
